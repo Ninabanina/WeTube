@@ -1,0 +1,10 @@
+.like-button {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  margin-top: 10px;
+}
+
+.like-button .button {
+  margin-left: 10px;
+}

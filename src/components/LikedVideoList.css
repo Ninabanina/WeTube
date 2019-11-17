@@ -1,0 +1,9 @@
+.list--liked {
+  /* over write the style from semantive UI */
+  margin-top: 50px !important;
+  width: 100%;
+}
+
+.list__content--empty {
+  font-size: 14px;
+}
